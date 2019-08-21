@@ -1,0 +1,16 @@
+# Virtual environments
+env/
+venv/
+
+# Visual studio code
+.vscode/
+
+# Database
+*.sqlite3
+
+# Python
+.history/
+__pycache__/
+
+# Selenium
+geckodriver.log
